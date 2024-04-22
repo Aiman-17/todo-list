@@ -1,0 +1,19 @@
+{
+  "name": "nj2todo_list8na",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aiman Syeda",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/readline-sync": "^1.4.8"
+  }
+}
